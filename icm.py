@@ -1,7 +1,6 @@
 import random
 import math
 import time
-import statistics
 
 random.seed(time.time())
 
